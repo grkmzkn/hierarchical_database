@@ -1,0 +1,11 @@
+C:\Users\grkmzkn\source\repos\hier\hier\bin\Debug\hier.exe.config
+C:\Users\grkmzkn\source\repos\hier\hier\bin\Debug\hier.exe
+C:\Users\grkmzkn\source\repos\hier\hier\bin\Debug\hier.pdb
+C:\Users\grkmzkn\source\repos\hier\hier\obj\Debug\hier.csprojAssemblyReference.cache
+C:\Users\grkmzkn\source\repos\hier\hier\obj\Debug\hier.AnaEkran.resources
+C:\Users\grkmzkn\source\repos\hier\hier\obj\Debug\hier.Giris.resources
+C:\Users\grkmzkn\source\repos\hier\hier\obj\Debug\hier.Properties.Resources.resources
+C:\Users\grkmzkn\source\repos\hier\hier\obj\Debug\hier.csproj.GenerateResource.cache
+C:\Users\grkmzkn\source\repos\hier\hier\obj\Debug\hier.csproj.CoreCompileInputs.cache
+C:\Users\grkmzkn\source\repos\hier\hier\obj\Debug\hier.exe
+C:\Users\grkmzkn\source\repos\hier\hier\obj\Debug\hier.pdb
